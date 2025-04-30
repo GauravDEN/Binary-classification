@@ -72,5 +72,6 @@ streamlit run app.py
 
 Happy Coding! 🚀
 
-By- Priyanshu Rai
+By- Gaurav Chamoi
+
 ```
